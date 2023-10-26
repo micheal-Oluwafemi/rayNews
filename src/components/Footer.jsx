@@ -186,11 +186,11 @@ const Footer = () => {
         <h3>
           Developed by
           <a
-            href='https://wa.me/message/FOHLE6MHV7BRM1'
+            href='https://rayt3ch.vercel.app'
             target='_blank'
             className='text-sm pl-1'
           >
-            RayT3ch
+            <span className='text-sky-500'>@</span>RayT3ch
           </a>
         </h3>
       </div>
